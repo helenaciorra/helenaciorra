@@ -48,5 +48,5 @@ I’m a remote-work advocate, an avid gamer, and a fan of Japanese culture.
 
 </div>
 
-![Snake Animation](https://raw.githubusercontent.com/helenaciorra/helenaciorra/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/helenaciorra/helenaciorra/output/github-contribution-grid-snake-dark.svg)
 
