@@ -5,7 +5,7 @@
 </div>
 <br>
 
-I'm a QA Analyst transitioning from a 9-year career in high-impact project management. My professional journey is defined by a commitment to process excellence and a methodical approach to the Software Development Life Cycle. 
+I'm a QA Analyst currently transitioning from a decade-long career in high-impact research and project management. My professional journey is defined by a commitment to process excellence and a methodical approach to the Software Development Life Cycle. 
 
 I specialize in ensuring that technical execution aligns perfectly with business goals, combining professional maturity with a fast learning curve for new technologies.
 
@@ -22,10 +22,17 @@ I’m a remote-work advocate, an avid gamer, and a fan of Japanese culture.
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/lenochka77/)
 
 
-## 🧪 What I'm Focused On
+## 🔍 What I'm Focused On
 
 * **Automation & API Testing:** Building scalable automation architectures for Web, API, and Mobile environments.
 * **Quality Governance:** Applying rigorous documentation standards and QA metrics to eliminate bottlenecks and reduce rework.
+
+## 🧩 Featured Work
+
+* **[datasus-qa-suite](https://github.com/helenaciorra/datasus-qa-suite):** Automated validation of 7 years of Brazilian public health data using Cypress.
+* **[tests-api](https://github.com/helenaciorra/tests-api):** Contract and data integrity validation for Open-Meteo API using TypeScript, Jest, and Postman.
+* **[tests-unit](https://github.com/helenaciorra/tests-unit):** High-coverage utility testing using JavaScript and Jest.
+* **[tests-performance](https://github.com/helenaciorra/tests-performance):** Load, stress, and spike testing for weather APIs using k6.
 
 ## 🛠 Tech Stack
 
@@ -41,6 +48,7 @@ I’m a remote-work advocate, an avid gamer, and a fan of Japanese culture.
 ![QA Metrics](https://img.shields.io/badge/-QA%20Metrics-blueviolet?style=flat)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
