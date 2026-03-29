@@ -24,15 +24,10 @@ I’m a remote-work advocate, an avid gamer, and a fan of Japanese culture.
 
 ## 🔍 What I'm Focused On
 
-* **Automation & API Testing:** Building scalable automation architectures for Web, API, and Mobile environments.
-* **Quality Governance:** Applying rigorous documentation standards and QA metrics to eliminate bottlenecks and reduce rework.
+* **Automation:** Designing scalable frameworks for Web, API, and Performance testing.
+* **Governance:** Applying rigorous documentation standards and QA metrics to eliminate bottlenecks and reduce rework.
+* **Architecture:** Building data-driven test suites that adapt to schema changes and legacy environments.
 
-## 🧩 Featured Work
-
-* **[datasus-qa-suite](https://github.com/helenaciorra/datasus-qa-suite):** Automated validation of 7 years of Brazilian public health data using Cypress.
-* **[tests-api](https://github.com/helenaciorra/tests-api):** Contract and data integrity validation for Open-Meteo API using TypeScript, Jest, and Postman.
-* **[tests-unit](https://github.com/helenaciorra/tests-unit):** High-coverage utility testing using JavaScript and Jest.
-* **[tests-performance](https://github.com/helenaciorra/tests-performance):** Load, stress, and spike testing for weather APIs using k6.
 
 ## 🛠 Tech Stack
 
@@ -60,6 +55,16 @@ I’m a remote-work advocate, an avid gamer, and a fan of Japanese culture.
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-74aa9c?style=flat&logo=claude&logoColor=white)
+
+## 🧩 Portfolio
+
+| Layer | Project | Tech Stack | Core Focus |
+| :--- | :--- | :--- | :--- |
+| **Unit** | [**tests-unit**](https://github.com/helenaciorra/tests-unit) | TypeScript, Jest | Validating data processing logic with 90%+ code coverage and edge-case handling. |
+| **API** | [**tests-api**](https://github.com/helenaciorra/tests-api) | Jest, Postman | Contract and data integrity validation for weather data services. |
+| **E2E** | [**tests-e2e**](https://github.com/helenaciorra/tests-e2e) | Playwright, JavaScript | Cross-browser validation (Chromium/Firefox) and responsive UI testing across mobile and desktop. |
+| **Perf** | [**tests-performance**](https://github.com/helenaciorra/tests-performance) | k6, JavaScript | Load, stress, and spike testing to identify system breaking points and latency thresholds. |
+| **Real World** | [**datasus-qa-suite**](https://github.com/helenaciorra/datasus-qa-suite) | Cypress, GH Actions | Automated validation of 7 years of Brazilian National Immunization Program (PNI) public health records. |
 
 
 ## 📊 Stats
